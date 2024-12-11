@@ -89,7 +89,7 @@ const WeatherApp = () => {
       <br />
       <br />
       <div className="footer">
-        <h4>Designed & Developed with ❤️ by Ali Hassan</h4>
+        <h4>Designed & Developed with ❤️ by Muhammad Hassan</h4>
       </div>
     </div>
   );
